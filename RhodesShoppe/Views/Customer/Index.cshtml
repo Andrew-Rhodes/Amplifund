@@ -1,0 +1,25 @@
+﻿@using RhodesShoppe.Models
+@model List<RhodesShoppe.Api.Models.Customer>
+
+<h1>Guitar Repairs</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>PhoneNumber</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Name</td>
+                <td>@customer.PhoneNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("AddCustomer", "Customer")" class="btn btn-primary">Add New Customer</a>
+

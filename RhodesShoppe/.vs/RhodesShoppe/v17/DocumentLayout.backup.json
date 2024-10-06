@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\models\\gutiarrepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:models\\gutiarrepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\controllers\\repaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:controllers\\repaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|c:\\users\\andy\\desktop\\rhodesshoppe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7AE09F8-3F57-4407-8577-87B80DF55614}|RhodesShoppe.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T17:25:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GutiarRepair.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Models\\GutiarRepair.cs",
+              "RelativeDocumentMoniker": "Models\\GutiarRepair.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Models\\GutiarRepair.cs",
+              "RelativeToolTip": "Models\\GutiarRepair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:25:52.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:25:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:25:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T17:12:32.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepairController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Controllers\\RepairController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RepairController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Controllers\\RepairController.cs",
+              "RelativeToolTip": "Controllers\\RepairController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:23:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:12:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T17:11:46.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

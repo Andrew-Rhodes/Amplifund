@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\models\\guitarrepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:models\\guitarrepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\data\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:data\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\controllers\\repairscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:controllers\\repairscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|c:\\users\\andy\\desktop\\rhodesshoppe.api\\rhodesshoppe.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03F27F0E-9096-4B29-8F93-0ACF7FD5DF63}|RhodesShoppe.Api.csproj|solutionrelative:rhodesshoppe.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:02:55.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:37:33.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Data\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Data\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Data\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:36:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T18:36:29.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Data\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Data\\ShopContext.cs",
+              "RelativeToolTip": "Data\\ShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:36:15.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:35:18.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepairsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Controllers\\RepairsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RepairsController.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Controllers\\RepairsController.cs",
+              "RelativeToolTip": "Controllers\\RepairsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:38:46.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuitarRepair.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Models\\GuitarRepair.cs",
+              "RelativeDocumentMoniker": "Models\\GuitarRepair.cs",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\Models\\GuitarRepair.cs",
+              "RelativeToolTip": "Models\\GuitarRepair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:34:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RhodesShoppe.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\RhodesShoppe.Api.csproj",
+              "RelativeDocumentMoniker": "RhodesShoppe.Api.csproj",
+              "ToolTip": "C:\\Users\\Andy\\Desktop\\RhodesShoppe.Api\\RhodesShoppe.Api.csproj",
+              "RelativeToolTip": "RhodesShoppe.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T18:38:04.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

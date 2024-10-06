@@ -1,0 +1,6 @@
+@RhodesShoppe.Api_HostAddress = http://localhost:5169
+
+GET {{RhodesShoppe.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

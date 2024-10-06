@@ -1,0 +1,30 @@
+﻿@using RhodesShoppe.Models
+@model List<RhodesShoppe.Api.Models.GuitarRepair>
+
+<h1>Guitar Repairs</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Model</th>
+            <th>Issue</th>
+            <th>Status</th>
+            <th>Cost Estimate</th>
+            <th>Date Received</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var repair in Model)
+        {
+            <tr>
+                <td>@repair.GuitarModel</td>
+                <td>@repair.Issue</td>
+                <td>@repair.RepairStatus</td>
+                <td>@repair.CostEstimate</td>
+                <td>@repair.DateReceived</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("AddRepair", "Repair")" class="btn btn-primary">Add New Repair</a>

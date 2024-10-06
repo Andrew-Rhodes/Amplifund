@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZKwo4FR+TDoHLgQsPN2Gu0znWDbVzraRtQYxBtf6OGE=",
+  "Source": "RhodesShoppe.Api",
+  "BasePath": "_content/RhodesShoppe.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
